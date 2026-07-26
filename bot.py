@@ -9,7 +9,6 @@ Discord Translator Bot (Final Production Version)
             file size validation, src_lang normalisation, guild rate limiting,
             embed sanitisation, memory-safe cooldown pruning
 - Authors : testerxma (https://github.com/testerxma)
-            uaaw      (https://github.com/uaaw)
 """
 
 import asyncio
@@ -63,7 +62,6 @@ BOT_NAME    = "Translator Bot"
 
 OWNERS = [
     {"name": "testerxma", "github": "https://github.com/testerxma"},
-    {"name": "uaaw",      "github": "https://github.com/uaaw"},
 ]
 
 def _owners_line() -> str:
