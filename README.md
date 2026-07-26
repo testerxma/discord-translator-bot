@@ -7,7 +7,7 @@ All responses and help commands are available in both English and Japanese.
 
 Version : 2.1.0
 Authors : testerxma — https://github.com/testerxma
-          uaaw      — https://github.com/uaaw
+         
 
 ---
 
@@ -807,11 +807,9 @@ python-dotenv>=1.0.0
 | Name      | Role                  | GitHub                        |
 |-----------|-----------------------|-------------------------------|
 | testerxma | Co-Creator, Developer | https://github.com/testerxma |
-| uaaw      | Co-Creator, Developer | https://github.com/uaaw      |
-
 ---
 
 Translator Bot v2.1.0
 Made by testerxma — https://github.com/testerxma
-     and uaaw     — https://github.com/uaaw
+    
 ```
